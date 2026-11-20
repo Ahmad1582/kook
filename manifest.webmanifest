@@ -1,0 +1,13 @@
+{
+  "name": "کوک | برنامه‌ریز شخصی",
+  "short_name": "کوک",
+  "description": "برنامه‌ریز روزانه، تقویم، کارها، خرید و دخل‌وخرج",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#355b48",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
